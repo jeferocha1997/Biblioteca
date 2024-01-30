@@ -1,0 +1,23 @@
+BIBLIOTECA
+    CRUD Básico em NodeJS utilizando MongoDB;
+
+CRIAÇÃO DE LIVROS E AUTORES;
+    lIVROS: título, editora, preço, página e autor;
+    AUTOR: nome e nacionalidade;
+
+DEPENDÊNCIAS:
+    Express: Criar o servidor web e gerenciar rotas.
+
+    Mongoose: Modelar e interagir com os dados no MongoDB.
+
+    Axios: Requisições HTTP.
+
+    Dotenv: Salvar informações sensíveis (.env = endereço do Banco de Dados)
+
+    Nodemon (nodemon):Reinicia automaticamente o servidor sempre que houver alterações nos arquivos.
+
+APRENDIZADO:
+     A aplicação utiliza Mongoose para manipulação  de dados no MongoDB,
+     segue os princípios REST na construção da API com Express e
+     adota a referenciação do autor pelo ID para deixar o banco mais organizado.
+    
